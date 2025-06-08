@@ -15,6 +15,7 @@ O foco deste projeto foi praticar:
 - Criação de sprites e elementos gráficos (com Aseprite, GIMP e Inkscape)
 
 📁 Estrutura de Pastas
+
   assets/ # Imagens do jogo
   fonts/ # Fontes utilizadas
   sounds/ # Efeitos sonoros
