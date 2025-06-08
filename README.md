@@ -31,10 +31,13 @@ O foco deste projeto foi praticar:
   > Requisitos:
   > - Python 3.10+
   > - Pygame
- No terminal
-> - pip install pygame
-> - python main.py
+
+   > No terminal
+
+    > - pip install pygame
+    
+    > - python main.py
 
 📦 Versão compilada (Windows)
 
-Se preferir, você pode baixar o executável na pasta dist/.
+Se preferir, você pode baixar o executável na pasta dist/jogo.exe
