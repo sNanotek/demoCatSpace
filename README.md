@@ -16,11 +16,15 @@ O foco deste projeto foi praticar:
 
 📁 Estrutura de Pastas
 
-  assets/ # Imagens do jogo
-  fonts/ # Fontes utilizadas
-  sounds/ # Efeitos sonoros
-  scripts/ # Códigos auxiliares
-  main.py # Arquivo principal do jogo
+  > -  assets/ # Imagens do jogo
+
+  > - fonts/ # Fontes utilizadas
+
+  > - sounds/ # Efeitos sonoros
+ 
+  > -  scripts/ # Códigos auxiliares
+ 
+  > - main.py # Arquivo principal do jogo
 
 🛠️ Como executar
 
